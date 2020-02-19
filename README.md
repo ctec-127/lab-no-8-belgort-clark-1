@@ -1,8 +1,6 @@
-# Module 7 - Lab Nos. 8 and 9
+# Module 7 - Lab No. 8
 
 ## Overview
-
-This assignment counts for **two lab assignments**. In Canvas they will be identified as **Lab No. 8** and **Lab No. 9**.
 
 This lab will have you take the **Temperature Converter** PHP code provided in [lab8.php](lab8.php) and will have you create a version of the page that employs Bootstrap 4 layout and design features.
 
